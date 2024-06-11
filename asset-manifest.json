@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tailwind-CSS-Practice/static/css/main.a59f00ab.css",
+    "main.js": "/Tailwind-CSS-Practice/static/js/main.ed83501c.js",
+    "static/js/453.4b1bfffb.chunk.js": "/Tailwind-CSS-Practice/static/js/453.4b1bfffb.chunk.js",
+    "index.html": "/Tailwind-CSS-Practice/index.html",
+    "main.a59f00ab.css.map": "/Tailwind-CSS-Practice/static/css/main.a59f00ab.css.map",
+    "main.ed83501c.js.map": "/Tailwind-CSS-Practice/static/js/main.ed83501c.js.map",
+    "453.4b1bfffb.chunk.js.map": "/Tailwind-CSS-Practice/static/js/453.4b1bfffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59f00ab.css",
+    "static/js/main.ed83501c.js"
+  ]
+}
